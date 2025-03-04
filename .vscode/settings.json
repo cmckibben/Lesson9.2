@@ -1,5 +1,6 @@
 {
     "redhat.telemetry.enabled" : false,
+    "editor.bracketPairColorization.enabled": true, 
     "java.server.launchMode" : "Standard",
     "files.exclude": {
         ".*": true,
@@ -20,6 +21,17 @@
         "pikachu",
         "pikachu's",
         "raichu",
-        "raichu's"
+        "raichu's",
+        "charizard",
+        "charmander",
+        "mewtwo",
+        "charmeleon",
+        "deadend",
+        "Catchrate",
+        "McKibben",
+        "diceware",
+        "Diceware",
+        "arraysize",
+        "autofetch"
     ]
 }
